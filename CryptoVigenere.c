@@ -8,8 +8,8 @@ int main() {
 	char CipherText[100];
 	char PlainText[100];
 
-	printf("Welcome to the Vingenere Cipher!\n");
-	printf("Enter a short phrase you would like encdoded: ");
+	printf("Welcome to the Vigenere Cipher!\n");
+	printf("Enter a short phrase you would like encoded: ");
 	fgets(UserText, 100, stdin);
 
 	printf("Enter a keyword: ");
